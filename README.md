@@ -11,7 +11,7 @@ configuaraciones basicas para trabajar con el framework de django
 - 8 seleccionar interprete de python
 - 9 actualizar  pip -->python -m pip install --upgrade pip
 - 10 instalar django --> python -m  pip install django
-- 11 creando el proyecto -->django-admin startproject web_project .
+- 11 creando el proyecto -->django-admin startproject web_kriks .
 - 12 realiza migracion al proyecto -->python manage.py migrate
 - 13 ejecuta servidor -->python manage.py runserver
 - Me trabaja en http://127.0.0.1:8000/
