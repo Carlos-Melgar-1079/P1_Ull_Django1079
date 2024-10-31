@@ -15,10 +15,10 @@ configuaraciones basicas para trabajar con el framework de django
 - 12 realiza migracion al proyecto -->python manage.py migrate
 - 13 ejecuta servidor -->python manage.py runserver
 - Me trabaja en http://127.0.0.1:8000/
--para crear carpeta app---->python manage.py
--para crear un super usuario -----> python manage.py makesuperuser
--python manage.py makemigration
-
+- para crear carpeta app---- > python manage.py
+- para crear un super usuario -----> python manage.py makesuperuser
+- parta migrar las bases de datos (models)-----> python manage.py makemigration
+- para crear una carpeta app ----> python manage.py startapp (nombre app)_app
 
 ![p](https://github.com/user-attachments/assets/6c9e7b55-7ae1-478d-916e-01396796b7f3)
 ![pa](https://github.com/user-attachments/assets/3adc18f9-b29e-4015-a91b-817994e40a56)
